@@ -1,1 +1,1 @@
-Exercício: API Rest com Node.js, Express, TypeORM e banco de dados PostgreSQL. Aula do dia 11/01/2022. Adicionado feature de Projects (CRUD)
+API Rest com Node.js, Express, TypeORM e banco de dados PostgreSQL. Projeto final do módulo 5 de Arquitetura de Software, utilizando MVC baseado em features. Lista de Recados.
